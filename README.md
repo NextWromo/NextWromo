@@ -6,7 +6,7 @@
 <h3 align="center">Frontend end Backend Web end apps Developer with Studio Wromo Marketplace</h3>
 <p align="center"><img src="https://www.uapp.at/Fackedshippitnow!.mp4" width="480" height="640"  /></p>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /> </p>
+<p align="left"> <img src="https://www.uapp.at/Fackedshippitnow!.mp4" alt="saifulemon" /> </p>
 
 # 💫 About Me :
 
