@@ -18,7 +18,7 @@
 
 - 🌱 Top project **Node.JS, React, Python, TypeScript, Global CDN Servers with Debian end CloudBigger**
 
-- 👨‍💻 All of my projects are available at https://github.com/Ghepes or www.ghepes.com / komme soon
+- 👨‍💻 All of my projects are available at https://github.com/Ghepes or[ www.ghepes.com / comme soon](https://ghepes.com/)
 
 - 💞️ I’m looking for collaborate ... only together in a team can you succeed ... the bigger a team is, the more inevitable the success on long-term.
 
