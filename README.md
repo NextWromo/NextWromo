@@ -1,6 +1,6 @@
 
 <p align="center">
-  <mp4 alt="mp4" height="27" src="https://github.com/NextWromo/NextWromo/blob/8b89758cb6b1427fcb2e72557854aec51567954c/Facked%20shipp%20it%2C%20now!.gif" />2023</p>
+  <mp4 alt="mp4" height="" src="" />2023</p>
 
   <video width="480" height="640" autoplay>
   <source src="https://github.com/NextWromo/NextWromo/blob/8b89758cb6b1427fcb2e72557854aec51567954c/Facked%20shipp%20it%2C%20now!.gif" type="video/mp4">
