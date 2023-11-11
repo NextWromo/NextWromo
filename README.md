@@ -3,7 +3,7 @@
   <img alt="GIF" height="275" src="https://github.com/saifulemon/saifulemon/blob/main/hello.gif" />
 </p>
 
-<h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/2d2b0b4c716e77ce3d655846321a9ca05f6efe21/Wave.gif" height="55px" width="55px">, I'm "Iulian Ghepes" nikname github @NextWromo or @Ersin84 by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
+<h1 align="center">Hi <img src="https://github.com/saifulemon/saifulemon/blob/2d2b0b4c716e77ce3d655846321a9ca05f6efe21/Wave.gif" height="55px" width="55px">, I'm "Iulian Ghepes" nikname github @NextWromo or @Ghepes by Studio Wromo - Marketplace Wromo - Webdesign Studio Wromo</h1>
 <h3 align="center">A passionate Frontend & Backend Web Developer from Studio Wromo</h3>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <br/>
@@ -13,13 +13,14 @@
 
 - 🌱 Top project **Node.JS, React, Python, TypeScript**
 
-- 👨‍💻 All of my projects are available at https://github.com/Ersin84
+- 👨‍💻 All of my projects are available at https://github.com/Ghepes
 
 - 💞️ I’m looking for collaborate ... only together in a team can you succeed ... the bigger a team is, the more inevitable the success on long-term.
 
--- 👀 I’m interested in big project and not only, I manage and work to various projects: wromox.cf wromo.com .net .de wromo.at .ro Apps ISO Flutter Dart & Next.js, React, Wordpress Theme.
+-- 👀 M'y interest... to sleep well because everything else is fine. 
+I manage and work to various project.
 
-- 💬 Ask me about **JavaScript, React, Bootstrap, HTML5, CSS3 **
+- 💬 Ask me about ** Servers Debian, dart flutter, graphql,  Next.js, PHP, wordpress end plugin, React, Bootstrap, HTML5, CSS3 ... end more , Crypto blockchain end apps Technologie**
 
 - 📫 How to reach me **info.wromo@gmail.com** or **support@wromo.com** contact if you are looking for a partner. I am open!
 
@@ -51,11 +52,6 @@
 ## 🏆 GitHub Trophies
 
 ### ✍️ Random Dev Quote
-
-<!---
-Ersin84/Ersin84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 <!---
