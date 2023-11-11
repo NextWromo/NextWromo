@@ -1,12 +1,13 @@
 
 <p align="center">
-  <video width="480" height="640" autoplay> ## //  <source src="https://github.com/NextWromo/NextWromo/blob/8b89758cb6b1427fcb2e72557854aec51567954c/Facked%20shipp%20it%2C%20now!.gif" type="video/ogg">
+  <video width="480" height="640" autoplay> 
+  <source src="https://github.com/NextWromo/NextWromo/blob/8b89758cb6b1427fcb2e72557854aec51567954c/Facked%20shipp%20it%2C%20now!.gif" type="video/ogg">
   "@Ghepes" nikname github @NextWromo or @Ghepes with Studio Wromo Marketplace @Wromo - Webdesign Studio Wromo.
 </video>
 
 <h1 Studio Wromo Marketplace > NextWromo </h1></h1>
 <h3 align="center">Frontend end Backend Web end apps Developer with Studio Wromo Marketplace</h3>
-<p align="center"><img src="https://github.com/NextWromo/NextWromo/blob/8b89758cb6b1427fcb2e72557854aec51567954c/Facked%20shipp%20it%2C%20now!.gif"  width="480" height="640"  /></p>
+
 <br/>
 <p align="left"> <img src="https://github.com/NextWromo/NextWromo/blob/8b89758cb6b1427fcb2e72557854aec51567954c/Facked%20shipp%20it%2C%20now!.gif" alt="New" /> </p>
 
