@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi <img src="https://drive.google.com/file/d/1m0e903EcbpRm-3Bggsh0xqoJxjvp3DKy/view?usp=sharing" height="120px" width="80px">, Bey "@Ghepes" nikname github @NextWromo or @Ghepes with Studio Wromo Marketplace @Wromo - Webdesign Studio Wromo</h1>
 <h3 align="center">A passionate Frontend & Backend Web Developer from Studio Wromo</h3>
-<p align="center"><img src="https://drive.google.com/file/d/1m0e903EcbpRm-3Bggsh0xqoJxjvp3DKy/view?usp=sharing" width="400" height="600"  /></p>
+<p align="center"><img src="https://drive.google.com/file/d/1m0e903EcbpRm-3Bggsh0xqoJxjvp3DKy/view?usp=sharing" width="480" height="640"  /></p>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifulemon&label=Profile%20views&color=0e75b6&style=flat" alt="saifulemon" /> </p>
 
